@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dca02c42-b2e6-4d4f-9a58-5398bee792b3" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/mike/zookeeper/ConfigCenterDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/mike/zookeeper/ConfigCenterDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/mike/zookeeper/MasterElectionDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/mike/zookeeper/MasterElectionDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/mike/zookeeper/ZKDistributeImproveLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/mike/zookeeper/ZKDistributeImproveLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/mike/zookeeper/ZKDistributeLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/mike/zookeeper/ZKDistributeLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/study/mike/zookeeper/ZkClientWatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/study/mike/zookeeper/ZkClientWatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.1.xspringboot全部代码示例/3.1.x-springboot代码合集-.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.2.1注册中心eureka/3.2.1注册中心eureka.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.2.2客户端负载均衡ribbon/3.2.2客户端负载均衡ribbon.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.2.3微服务容错机制hystrix/3.2.3微服务容错机制hystrix.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.2.4声明式接口调用客户端feign/3.2.4声明式接口调用客户端feign.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.2.5微服务网关zuul/3.2.5微服务网关zuul.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.3.1stream消息驱动/3.3.1stream消息驱动.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.3.2stream&amp;bus合并代码/3.3.2stream&amp;bus合并代码.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.3.4gateway服务网关/3.3.4gateway服务网关.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.3.5分布式配置中心config-server/3.3.5分布式配置中心config-server.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../subject-4-springcloud/3.3.6生态圈的配置中心与注册中心以及完整代码/3.3.6生态圈的配置中心与注册中心&amp;完整全部demo.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\devTool\idea\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="E:\develement\THSPlatform\tools\apache-maven-2.2.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hwgzRKcE7WfJouoOzVi91XtCz2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../01我的代码/javaBase" />
+    <property name="project.structure.last.edited" value="问题" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.32561728" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\java\网易云课堂\网易高级java配套课件代码\subject-4\subject-4-2-zookeeper\zookeeper-study\src\main\java" />
+      <recent name="E:\java\网易云课堂\网易高级java配套课件代码\subject-4\subject-4-2-zookeeper\zookeeper-study\src\main\java\com\study\mike\zookeeper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.MasterElectionDemo">
+    <configuration name="ConfigCenterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.mike.zookeeper.ConfigCenterDemo" />
+      <module name="zookeeper-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.mike.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MasterElectionDemo" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.mike.zookeeper.MasterElectionDemo" />
+      <module name="zookeeper-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.mike.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZkClientWatchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.study.mike.zookeeper.ZkClientWatchDemo" />
+      <module name="zookeeper-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.study.mike.zookeeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="应用程序.ConfigCenterDemo" />
+      <item itemvalue="应用程序.MasterElectionDemo" />
+      <item itemvalue="应用程序.ZkClientWatchDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.MasterElectionDemo" />
+        <item itemvalue="应用程序.ConfigCenterDemo" />
+        <item itemvalue="应用程序.ZkClientWatchDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dca02c42-b2e6-4d4f-9a58-5398bee792b3" name="默认的" comment="" />
+      <created>1600927834507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600927834507</updated>
+      <workItem from="1600927835578" duration="1702000" />
+      <workItem from="1600951708350" duration="1453000" />
+      <workItem from="1601277520606" duration="8946000" />
+      <workItem from="1601370029098" duration="2591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601284217037">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601284217037" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1600928052043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1600928052043" />
+    <state x="740" y="235" key="FileChooserDialogImpl" timestamp="1601373239558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="235" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1601373239558" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1601292151115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601292151115" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1601292151115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601292151115" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1601292151115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601292151115" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1601292151115">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601292151115" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1601292151109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1601292151109" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1601292151109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1601292151109" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1601292151108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1601292151108" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1601292151109">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1601292151109" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1601280788732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1601280788732" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601279688233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1601279688233" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1600951760317">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1600951760317" />
+  </component>
+</project>
